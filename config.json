@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderdecrypt",
+        "uuid": 28695446,
+        "checksum": "icb2"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
